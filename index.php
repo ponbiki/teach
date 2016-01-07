@@ -3,7 +3,7 @@ ini_set('error_reporting', E_ALL);
 
 /*
  * teaching core PHP OOP concepts intentionally ignoring
- * protected visibilty for now
+ * protected visibility for now
  */
 
 class totalNewb
